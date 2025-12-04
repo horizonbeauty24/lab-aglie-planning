@@ -1,9 +1,9 @@
 ---
-name: User Story
-about: This template is creating a user story
-title: ''
-labels: ''
-assignees: ''
+Name: User Story
+About: This template is creating a user story
+Title: ''
+Labels: ''
+Assignees: ''
 
 ---
 
